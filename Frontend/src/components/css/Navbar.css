@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: white;
+  color: orange;
+}
+
+.navbar-left .logo {
+  height: 40px;
+  color: orange;
+}
+
+.navbar-right a {
+  margin-left: 1.5rem;
+  color: orange;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar-right a:hover {
+  color: #000000;
+}

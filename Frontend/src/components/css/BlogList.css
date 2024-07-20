@@ -1,0 +1,20 @@
+/* src/components/BlogList.css */
+.blog-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px; /* Adjust gap between items */
+  padding: 16px; /* Optional padding */
+}
+
+.blog-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.blog-image {
+  width: 100%;
+  height: auto;
+}

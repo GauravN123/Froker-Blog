@@ -1,0 +1,27 @@
+.blog-page {
+  padding: 2rem;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  font-size: 2rem;
+  color: #666;
+}
+
+.recent-posts {
+  margin-top: 2rem;
+}
+
+.recent-posts h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.orange {
+  color: orange;
+}
